@@ -8,12 +8,7 @@ def func01():
     print("第2部分")
     yield "结果2"
 
-    print("第3部分")
 
-"""
-class Generate:
-    def __next__(self):
-        print("第n部分")
         return "结果n"
 """
 
